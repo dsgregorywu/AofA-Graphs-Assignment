@@ -6,7 +6,7 @@ Implementation: My implementation is pretty standard, for DFS everything is stac
 
 Instructions: Running the program.py file should in theory bring up an option to start at a specific point. Type in a vertex name and from there it should run both search algorithms and return the other vertices in visited order. 
 
-Since I wasn't incredibly familiar with either algorithm beforehand, any assumptions I made were researched beforehand to make sure I implemented ir correctly.
+Since I wasn't incredibly familiar with either algorithm beforehand, any assumptions I made were researched beforehand to make sure I implemented it correctly.
 
 DFS Traversal (starting at Salem):
 
