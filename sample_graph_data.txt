@@ -1,0 +1,6 @@
+source,destination,highway,distance
+A,B,I-1,10
+B,C,I-2,20
+C,D,I-3,30
+D,A,I-4,40
+A,C,I-5,15
